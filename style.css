@@ -13,17 +13,17 @@ a {
 }
 #grid {
   display: grid;
-  grid-template-columns: 350px 1fr;
+  grid-template-columns: 200px 1fr;
   margin left: 1px;
   padding left: 1px;
 
 }
 #grid ol{
-  border-right: 2px solid gray;
-  width: 250px;
+  border-right: 2px solid black;
+  width: 150px;
   margin: 0px;
-  padding: 20px;
-  padding-left: 33px;
+  padding: 0px;
+  padding-left: 0px;
   font-size: 30px
 }
 
