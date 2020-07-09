@@ -39,3 +39,14 @@ padding-top: 20px;
 html{
   background-color: powderblue;
 }
+@media (max-width:800px) {
+  #grid{
+    display: block;
+  }
+  #grid ol{
+    border-right: none;
+    padding: 80px;
+  }
+  h1{
+    border-bottom:none;
+  }
