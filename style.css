@@ -47,6 +47,10 @@ html{
     border-right: none;
     padding: 80px;
   }
+  #speedgo{
+    margin: 20px;
+    padding: 20px;
+  }
   h1{
     border-bottom:none;
   }
